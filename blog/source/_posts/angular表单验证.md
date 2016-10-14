@@ -20,6 +20,7 @@ Angular 的表单属性 $valid, $invalid, $pristine, $dirty
     $pristine   ng-pristine Boolean 如果表单或者输入框没有使用则为True
     $dirty  ng-dirty    Boolean 如果表单或者输入框有使用到则为True
     Angular 也提供了有关表单及其输入框的类，以便你能够依据每一个状态设置其样式.
+``` html 
 
     <!DOCTYPE html>
     <html>
@@ -86,6 +87,7 @@ Angular 的表单属性 $valid, $invalid, $pristine, $dirty
                 </div>
             </div>
         </body>
+        ``` javascript
         <script type="text/javascript">
             var validationApp = angular.module('validationApp', []);
             validationApp.controller('mainController', function($scope) {
@@ -103,6 +105,6 @@ Angular 的表单属性 $valid, $invalid, $pristine, $dirty
             });
         </script>
     </html>
-
+```
 相关文章：https://scotch.io/tutorials/angularjs-form-validation，https://docs.angularjs.org/guide/forms#!
 
