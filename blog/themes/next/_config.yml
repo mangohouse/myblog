@@ -233,7 +233,7 @@ alipay: /images/2.jpg
 # ---------------------------------------------------------------
 # Social links
 social:
-  GitHub: https://github.com/your-user-name
+  GitHub: https://github.com/mango23
   Twitter: https://twitter.com/your-user-name
   微博: http://weibo.com/your-user-name
   豆瓣: http://douban.com/people/your-user-name
@@ -255,7 +255,7 @@ mathjax:
 # Duoshuo ShortName
 #duoshuo_shortname:
 duoshuo_shortname: mymangohouse
-duoshuo_hotartical: true
+duoshuo_hotartical: false
 # Disqus
 #disqus_shortname:
 
