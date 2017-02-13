@@ -1,6 +1,7 @@
 title: 几个疑惑
 date: 2016-12-02 16:14:30
 tags: trouble
+categories: trouble
 description: 几个疑惑
 ---
 通过split串成的数组是真数组吗

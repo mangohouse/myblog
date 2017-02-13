@@ -1,6 +1,7 @@
 title: windows下利用nodist安装多个版本的node
 date: 2016-12-01 18:15:30
 tags: node,nodist
+categories: nodist
 description: windows下利用nodist安装多个版本的node
 ---
 好久，没有更新博客了，今天因为项目需要，需要在windows下使用多个版本的node，刚开始是想用nvmw的，nvmw虽然挺好用配置也简单，只需  <code>npm install -g nvmw</code> 

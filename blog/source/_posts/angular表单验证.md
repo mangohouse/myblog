@@ -2,6 +2,7 @@
 title: angular表单验证规范
 date: 2016-10-11 16:49:30
 tags: angular
+categories: angular
 description: angular表单验证规范
 ---
 
