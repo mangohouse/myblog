@@ -88,6 +88,7 @@ Angular 的表单属性 $valid, $invalid, $pristine, $dirty
                 </div>
             </div>
         </body>
+        ```
         ``` javascript
         <script type="text/javascript">
             var validationApp = angular.module('validationApp', []);
@@ -105,6 +106,7 @@ Angular 的表单属性 $valid, $invalid, $pristine, $dirty
                 console.log($scope)
             });
         </script>
+        ```
     </html>
 ```
 相关文章：https://scotch.io/tutorials/angularjs-form-validation，https://docs.angularjs.org/guide/forms#!
