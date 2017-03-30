@@ -1,9 +1,9 @@
 ---
-title: 页面内容较多注意重复命名类名
+title: 注意事项
 date: 2017-02-17 16:30:30
-tags: 页面内容较多注意重复命名类名
-categories: 页面内容较多注意重复命名类名
-description: 页面内容较多注意重复命名类名
+tags: 注意事项
+categories: 注意事项
+description: 注意事项
 ---
 
 页面内容较多注意重复命名类名
@@ -14,4 +14,4 @@ node-sass安装失败最简单的办法就是用cnpm安装。。。
 
 vue热加载失效
 如果你用了webstorm的话，它默认将内容保存在临时文件中
-把settings=>appearance=>system setting=>synchornization=>最后一项勾去掉，就可以了。不知道你是不是这个问题，希望能对你有帮助。
+把settings=>appearance=>system setting=>synchornization=>最后一项勾去掉，就可以了。
