@@ -2,8 +2,8 @@
 title: 关于zepto.fullpage.js的一些经验总结
 date: 2018-04-19 21:18:23
 tags: zepto
-categories: cocos
-description: cocos creator的一些使用经验还有注意事项
+categories: zepto,zeptoFullPage.js
+description: 关于zepto.fullpage.js的一些经验总结
 ---
 
 ---
@@ -25,3 +25,12 @@ $('.class').swipeUp(()=>{
     $.fn.fullpage.movePrev();;
 })
 ```
+<p>
+使用了zeptofullpage.js后如果页面有overFlow:scroll，sroll会失效，出现不能滑动滚动栏的情况，
+解决方案是在该节点激活是时设置
+```js
+    $.fn.fullpage.stop();
+```
+关闭全屏滚动事件
+</p>
+
